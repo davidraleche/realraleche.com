@@ -1,0 +1,80 @@
+2019-05-10T18:34:56+00:00 INFO Checking IPN response is valid
+2019-05-10T18:34:56+00:00 INFO IPN Response: WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 6: Could not resolve host: www.paypal.com
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+)
+
+2019-05-10T18:34:56+00:00 INFO Received invalid response from PayPal IPN
+2019-05-10T18:34:56+00:00 INFO Error response: cURL error 6: Could not resolve host: www.paypal.com
+2019-05-10T18:36:54+00:00 INFO Checking IPN response is valid
+2019-05-10T18:36:54+00:00 INFO IPN Response: WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 6: Could not resolve host: www.paypal.com
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+)
+
+2019-05-10T18:36:54+00:00 INFO Received invalid response from PayPal IPN
+2019-05-10T18:36:54+00:00 INFO Error response: cURL error 6: Could not resolve host: www.paypal.com
+2019-05-10T18:36:54+00:00 INFO Checking IPN response is valid
+2019-05-10T18:36:54+00:00 INFO IPN Response: WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 6: Could not resolve host: www.paypal.com
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+)
+
+2019-05-10T18:36:54+00:00 INFO Received invalid response from PayPal IPN
+2019-05-10T18:36:54+00:00 INFO Error response: cURL error 6: Could not resolve host: www.paypal.com
+2019-05-10T18:39:27+00:00 INFO Checking IPN response is valid
+2019-05-10T18:39:27+00:00 INFO IPN Response: WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 6: Could not resolve host: www.paypal.com
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+)
+
+2019-05-10T18:39:27+00:00 INFO Received invalid response from PayPal IPN
+2019-05-10T18:39:27+00:00 INFO Error response: cURL error 6: Could not resolve host: www.paypal.com

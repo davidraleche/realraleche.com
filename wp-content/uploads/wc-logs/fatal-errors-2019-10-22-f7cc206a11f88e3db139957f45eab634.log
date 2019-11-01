@@ -1,0 +1,11 @@
+2019-10-22T16:02:30+00:00 CRITICAL Uncaught Error: Call to undefined function wp_is_json_request() in /var/www/RALECHE/DAVID.RALECHE.COM/blog/wp-includes/admin-bar.php:1169
+Stack trace:
+#0 /var/www/RALECHE/DAVID.RALECHE.COM/blog/wp-includes/admin-bar.php(26): is_admin_bar_showing()
+#1 /var/www/RALECHE/DAVID.RALECHE.COM/blog/wp-includes/class-wp-hook.php(286): _wp_admin_bar_init('')
+#2 /var/www/RALECHE/DAVID.RALECHE.COM/blog/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/RALECHE/DAVID.RALECHE.COM/blog/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/RALECHE/DAVID.RALECHE.COM/blog/wp-admin/admin.php(169): do_action('admin_init')
+#5 /var/www/RALECHE/DAVID.RALECHE.COM/blog/wp-admin/about.php(10): require_once('/var/www/RALECH...')
+#6 {main}
+  thrown
+

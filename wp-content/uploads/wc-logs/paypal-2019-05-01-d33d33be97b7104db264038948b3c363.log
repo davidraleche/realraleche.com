@@ -1,0 +1,195 @@
+2019-05-01T20:52:53+00:00 INFO Generating payment form for order 483. Notify URL: http://david.raleche.com/wc-api/WC_Gateway_Paypal/
+2019-05-01T20:52:53+00:00 INFO PayPal Request Args for order 483: Array
+(
+    [cmd] => _cart
+    [business] => davidraleche@gmail.com
+    [no_note] => 1
+    [currency_code] => USD
+    [charset] => utf-8
+    [rm] => 1
+    [upload] => 1
+    [return] => http://david.raleche.com/checkout/order-received/483/?key=wc_order_5cca0724cf54e&utm_nooverride=1
+    [cancel_return] => http://david.raleche.com/cart/?cancel_order=true&order=wc_order_5cca0724cf54e&order_id=483&redirect&_wpnonce=1d9b5a26b4
+    [page_style] => 
+    [image_url] => 
+    [paymentaction] => sale
+    [bn] => WooThemes_Cart
+    [invoice] => WC-483
+    [custom] => {"order_id":483,"order_key":"wc_order_5cca0724cf54e"}
+    [notify_url] => http://david.raleche.com/wc-api/WC_Gateway_Paypal/
+    [first_name] => ***
+    [last_name] => ***
+    [address1] => ***
+    [address2] => ***
+    [city] => ***
+    [state] => ***
+    [zip] => ***
+    [country] => ***
+    [email] => ***@***
+    [night_phone_a] => ***
+    [night_phone_b] => ***
+    [night_phone_c] => ***
+    [no_shipping] => 1
+    [tax_cart] => 0.00
+    [item_name_1] => Backup your website
+    [quantity_1] => 1
+    [amount_1] => 99
+    [item_number_1] => 
+)
+
+2019-05-01T20:56:56+00:00 INFO Generating payment form for order 485. Notify URL: http://david.raleche.com/wc-api/WC_Gateway_Paypal/
+2019-05-01T20:56:56+00:00 INFO PayPal Request Args for order 485: Array
+(
+    [cmd] => _cart
+    [business] => davidraleche@gmail.com
+    [no_note] => 1
+    [currency_code] => USD
+    [charset] => utf-8
+    [rm] => 1
+    [upload] => 1
+    [return] => http://david.raleche.com/checkout/order-received/485/?key=wc_order_5cca0817ea343&utm_nooverride=1
+    [cancel_return] => http://david.raleche.com/cart/?cancel_order=true&order=wc_order_5cca0817ea343&order_id=485&redirect&_wpnonce=1d9b5a26b4
+    [page_style] => 
+    [image_url] => 
+    [paymentaction] => sale
+    [bn] => WooThemes_Cart
+    [invoice] => WC-485
+    [custom] => {"order_id":485,"order_key":"wc_order_5cca0817ea343"}
+    [notify_url] => http://david.raleche.com/wc-api/WC_Gateway_Paypal/
+    [first_name] => ***
+    [last_name] => ***
+    [address1] => ***
+    [address2] => ***
+    [city] => ***
+    [state] => ***
+    [zip] => ***
+    [country] => ***
+    [email] => ***@***
+    [night_phone_a] => ***
+    [night_phone_b] => ***
+    [night_phone_c] => ***
+    [no_shipping] => 1
+    [tax_cart] => 0.00
+    [item_name_1] => Donation
+    [quantity_1] => 1
+    [amount_1] => 1
+    [item_number_1] => 
+)
+
+2019-05-01T21:01:07+00:00 INFO Generating payment form for order 486. Notify URL: http://david.raleche.com/wc-api/WC_Gateway_Paypal/
+2019-05-01T21:01:07+00:00 INFO PayPal Request Args for order 486: Array
+(
+    [cmd] => _cart
+    [business] => davidraleche@gmail.com
+    [no_note] => 1
+    [currency_code] => USD
+    [charset] => utf-8
+    [rm] => 1
+    [upload] => 1
+    [return] => http://david.raleche.com/checkout/order-received/486/?key=wc_order_5cca09130c8af&utm_nooverride=1
+    [cancel_return] => http://david.raleche.com/cart/?cancel_order=true&order=wc_order_5cca09130c8af&order_id=486&redirect&_wpnonce=1d9b5a26b4
+    [page_style] => 
+    [image_url] => 
+    [paymentaction] => sale
+    [bn] => WooThemes_Cart
+    [invoice] => WC-486
+    [custom] => {"order_id":486,"order_key":"wc_order_5cca09130c8af"}
+    [notify_url] => http://david.raleche.com/wc-api/WC_Gateway_Paypal/
+    [first_name] => ***
+    [last_name] => ***
+    [address1] => ***
+    [address2] => ***
+    [city] => ***
+    [state] => ***
+    [zip] => ***
+    [country] => ***
+    [email] => ***@***
+    [night_phone_a] => ***
+    [night_phone_b] => ***
+    [night_phone_c] => ***
+    [no_shipping] => 1
+    [tax_cart] => 0.00
+    [item_name_1] => Donation
+    [quantity_1] => 2
+    [amount_1] => 1
+    [item_number_1] => 
+)
+
+2019-05-01T21:01:50+00:00 INFO Generating payment form for order 487. Notify URL: http://david.raleche.com/wc-api/WC_Gateway_Paypal/
+2019-05-01T21:01:50+00:00 INFO PayPal Request Args for order 487: Array
+(
+    [cmd] => _cart
+    [business] => davidraleche@gmail.com
+    [no_note] => 1
+    [currency_code] => USD
+    [charset] => utf-8
+    [rm] => 1
+    [upload] => 1
+    [return] => http://david.raleche.com/checkout/order-received/487/?key=wc_order_5cca093e82e66&utm_nooverride=1
+    [cancel_return] => http://david.raleche.com/cart/?cancel_order=true&order=wc_order_5cca093e82e66&order_id=487&redirect&_wpnonce=1d9b5a26b4
+    [page_style] => 
+    [image_url] => 
+    [paymentaction] => sale
+    [bn] => WooThemes_Cart
+    [invoice] => WC-487
+    [custom] => {"order_id":487,"order_key":"wc_order_5cca093e82e66"}
+    [notify_url] => http://david.raleche.com/wc-api/WC_Gateway_Paypal/
+    [first_name] => ***
+    [last_name] => ***
+    [address1] => ***
+    [address2] => ***
+    [city] => ***
+    [state] => ***
+    [zip] => ***
+    [country] => ***
+    [email] => ***@***
+    [night_phone_a] => ***
+    [night_phone_b] => ***
+    [night_phone_c] => ***
+    [no_shipping] => 1
+    [tax_cart] => 0.00
+    [item_name_1] => Donation
+    [quantity_1] => 3
+    [amount_1] => 1
+    [item_number_1] => 
+)
+
+2019-05-01T21:03:48+00:00 INFO Generating payment form for order 488. Notify URL: http://david.raleche.com/wc-api/WC_Gateway_Paypal/
+2019-05-01T21:03:48+00:00 INFO PayPal Request Args for order 488: Array
+(
+    [cmd] => _cart
+    [business] => davidraleche@gmail.com
+    [no_note] => 1
+    [currency_code] => USD
+    [charset] => utf-8
+    [rm] => 1
+    [upload] => 1
+    [return] => http://david.raleche.com/checkout/order-received/488/?key=wc_order_5cca09b3e1c8c&utm_nooverride=1
+    [cancel_return] => http://david.raleche.com/cart/?cancel_order=true&order=wc_order_5cca09b3e1c8c&order_id=488&redirect&_wpnonce=418fa9a3a4
+    [page_style] => 
+    [image_url] => 
+    [paymentaction] => sale
+    [bn] => WooThemes_Cart
+    [invoice] => WC-488
+    [custom] => {"order_id":488,"order_key":"wc_order_5cca09b3e1c8c"}
+    [notify_url] => http://david.raleche.com/wc-api/WC_Gateway_Paypal/
+    [first_name] => ***
+    [last_name] => ***
+    [address1] => ***
+    [address2] => ***
+    [city] => ***
+    [state] => ***
+    [zip] => ***
+    [country] => ***
+    [email] => ***@***
+    [night_phone_a] => ***
+    [night_phone_b] => ***
+    [night_phone_c] => ***
+    [no_shipping] => 1
+    [tax_cart] => 0.00
+    [item_name_1] => Donation
+    [quantity_1] => 1
+    [amount_1] => 1
+    [item_number_1] => 
+)
+
