@@ -1,352 +1,351 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-<url>
+  xmlns="http://www.google.com/schemas/sitemap/0.84"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.google.com/schemas/sitemap/0.84
+                      http://www.google.com/schemas/sitemap/0.84/sitemap.xsd">
+ <url>
   <loc>https://raleche.com/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://raleche.com/category/weather/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://raleche.com/category/news/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://raleche.com/category/voyage/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://raleche.com/category/tv/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://raleche.com/category/real-estate/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://raleche.com/category/education/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://raleche.com/tag/actualite/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://raleche.com/tag/apartment-rental-new-york/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://raleche.com/tag/buy-in-los-angeles/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://raleche.com/tag/central-park/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://raleche.com/tag/deuce/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://raleche.com/tag/deuce-hbo/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://raleche.com/tag/french-restaurant/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://raleche.com/tag/hbo/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://raleche.com/tag/indian-restaurant/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://raleche.com/tag/information/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://raleche.com/tag/infromation/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://raleche.com/tag/lalaland/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://raleche.com/tag/los-angeles/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://raleche.com/tag/manhattan/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://raleche.com/tag/met-museum/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://raleche.com/tag/moscow/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://raleche.com/tag/museum/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://raleche.com/tag/news/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://raleche.com/tag/news-france/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://raleche.com/tag/new-york/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://raleche.com/tag/new-york-city/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://raleche.com/tag/new-york-manhattan/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://raleche.com/tag/new-york-museum/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://raleche.com/tag/new-york-times/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://raleche.com/tag/ny-campus/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://raleche.com/tag/paris/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://raleche.com/tag/paris-france/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://raleche.com/tag/paris-weather/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://raleche.com/tag/real-estate-l-a/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://raleche.com/tag/restaurant/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://raleche.com/tag/rooftop/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://raleche.com/tag/roof-top/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://raleche.com/tag/shopping/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://raleche.com/tag/temperature/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://raleche.com/tag/temps/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://raleche.com/tag/tv-show/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://raleche.com/tag/weather/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://raleche.com/tag/what-to-do-in-la/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://raleche.com/tag/what-to-do-in-los-angeles/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://raleche.com/tag/what-to-do-in-moscow/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://raleche.com/tag/what-to-do-in-new-york/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://raleche.com/tag/what-to-visit-in-moscow/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://raleche.com/tag/where-to-buy-in-l-a/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://raleche.com/tag/where-to-stay-in-new-york/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://raleche.com/tag/world-trade-center/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://raleche.com/moscow-weather/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
+  <priority>0.7649</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com///?author=1</loc>
+  <priority>0.0092</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/?author=2</loc>
+  <priority>0.0138</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/?s=</loc>
+  <priority>0.0184</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/?wc-ajax=get_refreshed_fragments</loc>
+  <priority>0.0092</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/ads.txt</loc>
+  <lastmod>2019-10-31T18:15:47Z</lastmod>
+  <priority>0.0414</priority>
+ </url>
+ <url>
   <loc>https://raleche.com/author/davidralechegmail-com/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://raleche.com/paris-france-weather/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://raleche.com/new-york-weather/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://raleche.com/los-angeles/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://raleche.com/le-monde-france-news-actualite/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://raleche.com/new-york-times/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://raleche.com/what-to-visit-in-moscow/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://raleche.com/category/moscow/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://raleche.com/what-to-do-in-new-york/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://raleche.com/category/new-york/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://raleche.com/what-to-do-in-los-angeles/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
+  <priority>0.0138</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/blog/450/feed/</loc>
+  <priority>0.0046</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/blog/feed/</loc>
+  <priority>0.0046</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/brent-oil/</loc>
+  <priority>0.0046</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/category/baidu/</loc>
+  <priority>0.0046</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/category/education/</loc>
+  <priority>0.0138</priority>
+ </url>
+ <url>
   <loc>https://raleche.com/category/los-angeles/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://raleche.com/deuce-hbo/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
+  <priority>0.0046</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/category/moscow/</loc>
+  <priority>0.0046</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/category/new-york/</loc>
+  <priority>0.0046</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/category/news/</loc>
+  <priority>0.0230</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/category/printing-card/</loc>
+  <priority>0.0046</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/category/real-estate/</loc>
+  <priority>0.0092</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/category/tv/</loc>
+  <priority>0.0092</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/category/voyage/</loc>
+  <priority>0.0046</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/category/weather/</loc>
+  <priority>0.0368</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/category/world-data/</loc>
+  <priority>0.0046</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/category/yahoo/</loc>
+  <priority>0.0092</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/category/zip-codes/</loc>
+  <priority>0.0046</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/comments/feed/</loc>
+  <priority>0.0046</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/currencies-market/</loc>
+  <priority>0.0092</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/dow-jones/</loc>
+  <priority>0.0046</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/favicon.ico</loc>
+  <priority>0.0599</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/feed/</loc>
+  <priority>0.0184</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/index.php</loc>
+  <priority>0.0138</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/license.txt</loc>
+  <lastmod>2019-10-31T18:15:46Z</lastmod>
+  <priority>0.0046</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/los-angeles/</loc>
+  <priority>0.0046</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/moscow-weather/</loc>
+  <priority>0.0046</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/new-york-times/</loc>
+  <priority>0.0046</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/new-york/</loc>
+  <priority>0.0046</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/page/8/</loc>
+  <priority>0.0046</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/page/9/</loc>
+  <priority>0.0046</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/product-category/it-support/</loc>
+  <priority>0.0046</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/readme.html</loc>
+  <lastmod>2019-10-31T18:15:47Z</lastmod>
+  <priority>0.0046</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/real-estate/</loc>
+  <priority>0.0092</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/robots.txt</loc>
+  <priority>1</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/shop/</loc>
+  <priority>0.0046</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/tag/actualite/</loc>
+  <priority>0.0138</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/tag/apartment-rental-new-york/</loc>
+  <priority>0.0092</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/tag/buy-in-los-angeles/</loc>
+  <priority>0.0046</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/tag/central-park/</loc>
+  <priority>0.0092</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/tag/deuce-hbo/</loc>
+  <priority>0.0092</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/tag/deuce/</loc>
+  <priority>0.0138</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/tag/french-restaurant/</loc>
+  <priority>0.0092</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/tag/hbo/</loc>
+  <priority>0.0092</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/tag/indian-restaurant/</loc>
+  <priority>0.0092</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/tag/information/</loc>
+  <priority>0.0138</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/tag/infromation/</loc>
+  <priority>0.0184</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/tag/lalaland/</loc>
+  <priority>0.0184</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/tag/los-angeles/</loc>
+  <priority>0.0138</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/tag/manhattan/</loc>
+  <priority>0.0092</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/tag/met-museum/</loc>
+  <priority>0.0092</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/tag/moscow/</loc>
+  <priority>0.0046</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/tag/museum/</loc>
+  <priority>0.0184</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/tag/new-york-city/</loc>
+  <priority>0.0092</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/tag/new-york-manhattan/</loc>
+  <priority>0.0046</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/tag/new-york-times/</loc>
+  <priority>0.0092</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/tag/new-york/</loc>
+  <priority>0.0092</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/tag/news-france/</loc>
+  <priority>0.0092</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/tag/news/</loc>
+  <priority>0.0092</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/tag/ny-campus/</loc>
+  <priority>0.0046</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/tag/paris-weather/</loc>
+  <priority>0.0046</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/tag/paris/</loc>
+  <priority>0.0092</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/tag/roof-top/</loc>
+  <priority>0.0046</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/tag/rooftop/</loc>
+  <priority>0.0138</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/tag/shopping/</loc>
+  <priority>0.0138</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/tag/stock-market/</loc>
+  <priority>0.0046</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/tag/temps/</loc>
+  <priority>0.0092</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/tag/tv-show/</loc>
+  <priority>0.0092</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/tag/weather/</loc>
+  <priority>0.0092</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/tag/what-to-do-in-moscow/</loc>
+  <priority>0.0046</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/tag/where-to-buy-in-l-a/</loc>
+  <priority>0.0046</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/tag/where-to-stay-in-new-york/</loc>
+  <priority>0.0046</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/tag/world-trade-center/</loc>
+  <priority>0.0046</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/what-to-do-in-los-angeles/</loc>
+  <priority>0.0046</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/what-to-do-in-new-york/</loc>
+  <priority>0.0046</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/what-to-visit-in-moscow/</loc>
+  <priority>0.0046</priority>
+ </url>
+ <url>
   <loc>https://raleche.com/where-to-buy-in-los-angeles/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://raleche.com/author/davidralechegmail-com/page/2/</loc>
-  <lastmod>2019-11-07T22:37:43+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-
-
+  <priority>0.0046</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/xmlrpc.php</loc>
+  <lastmod>2019-10-31T18:15:47Z</lastmod>
+  <priority>0.0046</priority>
+ </url>
+ <url>
+  <loc>https://raleche.com/xmlrpc.php?rsd</loc>
+  <priority>0.0046</priority>
+ </url>
 </urlset>
