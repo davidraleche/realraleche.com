@@ -36,7 +36,8 @@ define('DB_PASSWORD', 'YanaDavid93!');
 
 /** MySQL hostname */
 //define('DB_HOST', 'localhost');
-define('DB_HOST', 'database-raleche.c73vrvuftgta.us-east-1.rds.amazonaws.com');
+//define('DB_HOST', 'database-raleche.c73vrvuftgta.us-east-1.rds.amazonaws.com');
+define('DB_HOST', 'dbraleche1.c73vrvuftgta.us-east-1.rds.amazonaws.com');
 
 
 /** Database Charset to use in creating database tables. */
